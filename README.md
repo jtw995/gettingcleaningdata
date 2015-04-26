@@ -5,6 +5,7 @@ This project was to write a script that would take a dataset,
 make it more tidy, and save a transformed dataset either in long or wide format.
 
 To get started, please retrieve a copy of the course project's dataset:
+
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 Once that is downloaded and uncompressed, then please place the run_analysis.R into 
@@ -52,4 +53,5 @@ Questions?
 -
 
 More details are in the CodeBook.md and the run_analysis.R file (I included many comments).
+
 -Jeff
