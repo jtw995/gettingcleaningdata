@@ -17,7 +17,7 @@ Once the script is there, we are almost ready to run it.
 -
 Getting dplyr and reahape2
 -
-My run_analysis.R script uses dplyr and reshape2 to do summarization and melting from wide format into long format.  
+My run\_analysis.R script uses dplyr and reshape2 to do summarization and melting from wide format into long format.  
 
 If you do not have them, please install:
 
@@ -34,12 +34,12 @@ library(reshape2)
 -
 Run the script
 -
-In R, load and run the run_analysis.R script and it will produce _tidy_data_UCI_HAR_long.txt_
+In R, load and run the run\_analysis.R script and it will produce _tidy_data_UCI_HAR_long.txt_
 
 Note: The script expects to be run from the *same folder* where the train and test folders are.
 
 That output is the long format data following the transformations detailed in my
-https://github.com/jtw995/gettingcleaningdata/CookBook.md file.
+https://github.com/jtw995/gettingcleaningdata/blob/master/CodeBook.md file.
 
 -
 View the resulting data
