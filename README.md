@@ -36,6 +36,8 @@ Run the script
 -
 In R, load and run the run_analysis.R script and it will produce _tidy_data_UCI_HAR_long.txt_
 
+Note: The script expects to be run from the *same folder* where the train and test folders are.
+
 That output is the long format data following the transformations detailed in my
 https://github.com/jtw995/gettingcleaningdata/CookBook.md file.
 
