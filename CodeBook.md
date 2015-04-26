@@ -177,11 +177,11 @@ Then those two data frames were combined.
 
 The features were loaded from features.txt and had to be cleaned up as follows:
 
-  The dashes '-' were replaced with dots '.'
+  * The dashes '-' were replaced with dots '.'
 
-  'BodyBody' was replaced with 'Body'
+  * 'BodyBody' was replaced with 'Body'
 
-  ( and ) were removed
+  * ( and ) were removed
 
 Then 'Subject', 'Activity' and the features were aadded as the column names.  
 
